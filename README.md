@@ -1,2 +1,8 @@
-# gordonssunclock-legacy
-Gordon's Sun Clock legacy releases (Android 5-14) ☀️
+# Gordon's Sun Clock legacy
+
+Legacy line of Gordon's Sun Clock.
+
+This repository is for **legacy APK downloads only** (**Android 5–14**).
+
+Main repository:  
+https://github.com/gaxmann/gordonssunclock
