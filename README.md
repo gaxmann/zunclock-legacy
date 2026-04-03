@@ -2,6 +2,6 @@
 
 Legacy line of Gordon's Sun Clock (Android 5-14).
 
-This repository is for **legacy** APK downloads only to deal with the Obtainium restrictions.
+This repository is for **legacy** APK downloads only  and exists mainly to keep release channels separate (see Obtainium).
 
-Main repository and all infos: https://github.com/gaxmann/gordonssunclock
+Main repository and full information: https://github.com/gaxmann/gordonssunclock
