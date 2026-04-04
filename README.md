@@ -1,9 +1,7 @@
 # Sun Clock Legacy
 
-**Legacy APK distribution of Gordon's Sun Clock ☀️**
+**Legacy APK distribution**
 
-This repository is for **APK distribution of the `a5` line only** and helps to keep release channels separate.
+This repository provides the **`a5`** build line of Gordon's Sun Clock ☀️ for devices running Android 5–14. Keeping legacy and main releases in separate repositories ensures clean update notifications e.g. in [Obtainium](https://obtainium.imranr.dev/) and avoids unnecessary update prompts for legacy users.
 
-Since this version is distributed via GitHub only, you can use Obtainium to receive automatic updates: https://obtainium.imranr.dev/
-
-For full information and main repository see: https://github.com/gaxmann/gordonssunclock
+For more information and main repository see: https://github.com/gaxmann/gordonssunclock
